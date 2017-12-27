@@ -1,0 +1,12 @@
+<html>
+<head />
+<body>
+Hi %MAILTONAME%,<br /><br />
+thank you for signing up for the CREApplication. Before you can use this application you
+must verify your email by clicking on this <a target="_blank" href="%VERIFYLINK%">link</a> or by
+copying and pasting the following link into your browser: <br /><br />
+%VERIFYLINK%
+<br /><br />
+The CREApplication Team
+</body>
+</html>
